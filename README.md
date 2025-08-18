@@ -1,7 +1,7 @@
 # 🎨 Delmu Discord Server — Documentation
 
 **Единый центр документации для сервера Delmu** / 
-**Delmu Server Single Documentation Center**
+**Delmu Server Single Documentation Center**\
 ✍️ Authors: Mr_Kinako, Iris
 
 ## 🌐 Выберите язык / Choose Language
