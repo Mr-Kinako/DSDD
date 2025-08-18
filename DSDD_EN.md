@@ -40,7 +40,7 @@ Atmosphere: Communication, creative art sharing, community support.
 ```
 [🟢] ~~Ticket system~~
 [🟡] Bilingual adaptation (RU/EN)
-[🔴] Role system
+[🟡] Role system
 [🔴] Hobby channels
 [🔴] Server promotion
 
@@ -48,5 +48,6 @@ Atmosphere: Communication, creative art sharing, community support.
 Respect for members — no insults, discrimination, spam
 NSFW — strictly prohibited
 Advertising — only with admin approval
+
 
 
