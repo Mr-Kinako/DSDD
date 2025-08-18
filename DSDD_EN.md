@@ -1,6 +1,6 @@
 # 📑 DSDD - Discord Server Design Document
 
-# Version: 1.0.2 | Last Updated: 17.09.2025
+# Version: 1.1.0 | Last Updated: 17.09.2025
 
 ## Table of Contents
 - 🎯 [Core Purpose](#-core-purpose)
@@ -48,4 +48,5 @@ Atmosphere: Communication, creative art sharing, community support.
 Respect for members — no insults, discrimination, spam
 NSFW — strictly prohibited
 Advertising — only with admin approval
+
 
