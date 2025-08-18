@@ -1,4 +1,4 @@
-# Выбрать язык / Select Language
+# 🌐 Выбрать язык / Select Language
 - [Русский (RU)](#-история-изменений)
 - [English (EN)](#-changelog)
 
@@ -18,3 +18,4 @@
 - **1.0.2 (Aug 18, 2025, 15:30 (UTC+3))** - Removed local policy item "4. Topic-related content" to allow broader content freedom.
 - **1.0.1 (Aug 17, 2025, 19:00 (UTC+3))** - Repository made public. Motivation: announcement of upcoming server launch.
 - **1.0.0 (2025-08-17 16:00 UTC (UTC+3))** - Initial version of DSDD and README files added.
+
