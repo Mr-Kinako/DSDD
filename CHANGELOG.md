@@ -15,8 +15,9 @@
 ## 🕓 Changelog
 `- **0.1.0 (Sep 17, 2025, 18:15 (UTC+3))** — Example change description (optional, but version tracking is key)`
 
-- **1.1.4 (August 21, 2025, 16:01 (UTC+3))** - Local policy reform + minor additions that should be included in the draft, and added the "Rights" item in the "Systems" section.
+- **1.1.4 (Aug 21, 2025, 16:01 (UTC+3))** - Local policy reform + minor additions that should be included in the draft, and added the "Rights" item in the "Systems" section.
 - **1.1.0 (Aug 18, 2025, 16:01 (UTC+3))** - Added full bilingual support: Russian and English. Documentation split into DSDD_RU.md and DSDD_EN.md with unified navigation.
 - **1.0.2 (Aug 18, 2025, 15:30 (UTC+3))** - Removed local policy item "4. Topic-related content" to allow broader content freedom.
 - **1.0.1 (Aug 17, 2025, 19:00 (UTC+3))** - Repository made public. Motivation: announcement of upcoming server launch.
 - **1.0.0 (2025-08-17 16:00 UTC (UTC+3))** - Initial version of DSDD and README files added.
+
