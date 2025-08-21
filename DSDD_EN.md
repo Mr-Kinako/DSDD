@@ -56,7 +56,5 @@ Atmosphere: Communication, creative art sharing, community support.
 3. Advertising is available only by asking the senior administration;
 - Otherwise, there will be an advertising blackout for a certain period, with an advertising blackout, there is a risk of getting a ban if the violation is repeated.
 4. Content not on the server topic is allowed.
-5. Any personal information without confirmation of the person (dox) is categorically not welcomed.
+5. Any personal information without the permission of this person (dox) is strictly discouraged.
 - Otherwise, there will be a ban for life, without warning.
-
-
