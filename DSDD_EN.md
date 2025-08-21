@@ -42,11 +42,11 @@ Atmosphere: Communication, creative art sharing, community support.
 [🟡] In Progress
 [🔴] Not Started
 ```
-[🟢] ~~Ticket system~~
-[🟡] Bilingual adaptation (RU/EN)
-[🟡] Role system
-[🔴] Hobby channels
-[🔴] Server promotion
+- [🟢] ~~Ticket system~~
+- [🟢] Role system
+- [🟡] Bilingual adaptation (RU/EN)
+- [🔴] Hobby channels
+- [🔴] Server promotion
 
 # 📜 Minimum local policy
 - **Show respect to the participants, at least a little. No insults, discrimination, spam, excessive swearing;**
@@ -58,3 +58,4 @@ Atmosphere: Communication, creative art sharing, community support.
 - **Any personal information without the permission of this person (dox) is strictly discouraged.**
    - Otherwise, there will be a ban for life, without warning.
 - **Content not on the server topic is allowed.**
+
