@@ -49,13 +49,12 @@ Atmosphere: Communication, creative art sharing, community support.
 [🔴] Server promotion
 
 # 📜 Minimum local policy
-1. Show respect to the participants, at least a little. No insults, discrimination, spam, excessive swearing;
-- Otherwise, you will be under suspicion/surveillance. Or measures will be taken in the form of a kick/long-term mute.
-2. NSFW is prohibited in public. If it is allowed by someone from the higher administration - it is possible, by their order;
-- Otherwise, you will be under suspicion, there is also a risk of getting a mute without warning.
-3. Advertising is available only by asking the senior administration;
-- Otherwise, there will be an advertising blackout for a certain period, with an advertising blackout, there is a risk of getting a ban if the violation is repeated.
-4. Content not on the server topic is allowed.
-5. Any personal information without the permission of this person (dox) is strictly discouraged.
-- Otherwise, there will be a ban for life, without warning.
-
+- **Show respect to the participants, at least a little. No insults, discrimination, spam, excessive swearing;**
+   - Otherwise, you will be under suspicion/surveillance. Or measures will be taken in the form of a kick/long-term mute.
+- **NSFW is prohibited in public. If it is allowed by someone from the higher administration - it is possible, by their order;**
+   - Otherwise, you will be under suspicion, there is also a risk of getting a mute without warning.
+- **Advertising is available only by asking the senior administration;**
+   - Otherwise, there will be an advertising blackout for a certain period, with an advertising blackout, there is a risk of getting a ban if the violation is repeated.
+- **Any personal information without the permission of this person (dox) is strictly discouraged.**
+   - Otherwise, there will be a ban for life, without warning.
+- **Content not on the server topic is allowed.**
