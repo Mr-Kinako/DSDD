@@ -4,11 +4,11 @@
 
 ## Table of Contents
 - 🎯 [Core Purpose](#-core-purpose)
-- 📌 [Key Components](#-key-components)
-- ⚙️ [Systems](#-systems)
+- 📌 [What should be included](#-what-should-be-included)
+- ⚙️ [Systems](#️-systems)
 - 🌟 [Unique Features](#-unique-features)
 - 📋 [Development Plans](#-development-plans)
-- 📜 [Server Policy](#-server-policy)
+- 📜 [Minimum Local Policy](#-minimum-local-policy)
 
 ## 🎯 Core Purpose
 To create a cozy fan server dedicated to artist Delmu.  
@@ -58,3 +58,4 @@ Atmosphere: Communication, creative art sharing, community support.
 4. Content not on the server topic is allowed.
 5. Any personal information without the permission of this person (dox) is strictly discouraged.
 - Otherwise, there will be a ban for life, without warning.
+
