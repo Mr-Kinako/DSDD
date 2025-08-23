@@ -43,9 +43,9 @@ Atmosphere: Communication, creative art sharing, community support.
 [🔴] Not Started
 ```
 - [🟢] ~~Ticket system~~
-- [🟢] Role system
+- [🟢] ~~Role system~~
 - [🟡] Bilingual adaptation (RU/EN)
-- [🔴] Hobby channels
+- [🔴] Hobby channels (plan temporarily frozen)
 - [🔴] Server promotion
 
 # 📜 Minimum local policy
@@ -58,4 +58,5 @@ Atmosphere: Communication, creative art sharing, community support.
 - **Any personal information without the permission of this person (dox) is strictly discouraged.**
    - Otherwise, there will be a ban for life, without warning.
 - **Content not on the server topic is allowed.**
+
 
